@@ -3,8 +3,7 @@
 
 - 🌱 I’m currently learning python,java,HTML,CSS
 - 💞️ I’m looking to collaborate on AI and ML projects,internships,competitions
-- 📫 you can reach me through www.linkedin.com/in/
-harsh-raj-2aa866320
+- 📫 you can reach me through www.linkedin.com/in/harsh-raj-2aa866320
 
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I love solving puzzles and brain teasers—it's like training my own AI!
