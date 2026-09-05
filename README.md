@@ -1,31 +1,39 @@
-<!-- ============================================================== -->
-<!-- 🚀 ULTRA-AESTHETIC GEN-Z GITHUB PROFILE README                -->
-<!-- Replace `YOUR_GITHUB_USERNAME` & `YOUR_NAME` with your info    -->
-<!-- ============================================================== -->
-
 <div align="center">
 
-  <!-- DYNAMIC NEON HEADER WAVE -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,21,31&height=220&section=header&text=Hey%20Besties,%20I'm%20YOUR_NAME%20✨&fontSize=42&fontAlignY=38&animation=twinkling&desc=Full-Stack%20Chaos%20Engineer%20%7C%20Pixel%20Alchemist%20%7C%20Bug%20Whisperer&descAlignY=60&descAlign=50" width="100%"/>
+<!-- ANIMATED TYPING HEADER -->
+<a href="https://github.com/Harshraj979">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Hi+there%2C+I'm+Harsh+Raj+%F0%9F%91%8B;Full-Stack+Systems+%26+Software+Engineer;Building+High-Concurrency+Backends+%E2%9A%A1;Crafting+Fluid+Web+Experiences+%F0%9F%8E%A8" alt="Typing SVG" />
+</a>
 
-  <!-- TYPING SVG SLOGAN -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=F72585&center=true&vCenter=true&multiline=false&width=640&height=50&lines=turning+caffeine+%26+vibes+into+clean+code+☕;shipping+features+at+3AM+no+cap+🧢❌;main+character+energy+in+every+commit+💅;it's+not+a+bug%2C+it's+an+undocumented+vibe+✨;currently+breaking+prod+respectfully+🚀" alt="Typing SVG" />
-  </a>
+<p>
+  <img src="https://komarev.com/ghpvc/?username=Harshraj979&label=Profile%20Views&color=00F7FF&style=flat-square" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/Harshraj979?label=Followers&style=flat-square&color=00F7FF" alt="Followers" />
+  <img src="https://img.shields.io/badge/Status-Shipping%20Fast-brightgreen?style=flat-square" alt="Status" />
+</p>
 
-  <br/>
+<p>Architecting high-concurrency backends, microservices &amp; fluid web experiences.</p>
 
-  <!-- SOCIAL BADGES -->
-  <p align="center">
-    <a href="https://twitter.com/YOUR_TWITTER"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-    <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-    <a href="https://discord.com/users/YOUR_DISCORD_ID"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
-    <a href="mailto:your_email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-    <a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/Portfolio-7928CA?style=for-the-badge&logo=safari&logoColor=white" /></a>
-  </p>
+<a href="https://www.linkedin.com/in/harshraj979"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:hr5300439@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://leetcode.com/harsh_979"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+</div>
 
-  <!-- PROFILE VIEWS COUNTER -->
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat-square&color=ff007f&label=EYEBALLS+ON+PROFILE" alt="Profile Views"/>
+<br/>
+
+<!-- TECH STACK DOCK (MACOS STYLE) -->
+<div align="center">
+
+### 🧬 Tech Arsenal
+
+<img src="https://skillicons.dev/icons?i=ts,js,cpp,java,c&theme=dark" height="48" alt="Languages" />
+&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,html,css&theme=dark" height="48" alt="Frontend" />
+
+<br/><br/>
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,postgres,mongodb,redis,prisma&theme=dark" height="48" alt="Backend & DB" />
+&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=docker,git,github,postman&theme=dark" height="48" alt="DevOps & Tools" />
 
 </div>
 
@@ -33,13 +41,39 @@
 
 ---
 
-### 🧬 The Vibe Check (`whoami`)
+### 🎛️ Architecture & Core Stack
 
-```yaml
-identity:
-  handle: YOUR_NAME
-  aura: +1,000,000 ✨
-  role: "Full-Stack Dev & Pixel Sorcerer"
-  obsession: "Aesthetic UI & Ultra-Fast APIs"
-  philosophy: "Push to main on Friday. Live dangerously."
-  status: "Over-caffeinated & locked in 🔒"
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>⚡ Core Languages & Runtime</h4>
+      <ul>
+        <li><code>TypeScript</code> / <code>JavaScript (ES6+)</code></li>
+        <li><code>C++</code> / <code>C</code></li>
+        <li><code>Java</code></li>
+        <li><code>Node.js</code></li>
+      </ul>
+      <h4>🎨 Frontend & Interfaces</h4>
+      <ul>
+        <li><code>Next.js 14+ (App Router / SSR)</code></li>
+        <li><code>React.js</code> & <code>Redux Toolkit</code></li>
+        <li><code>Tailwind CSS</code> / Modern Responsive UI</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h4>⚙️ Backend & Distributed Systems</h4>
+      <ul>
+        <li><code>NestJS</code> (Microservices & Modular Architecture)</li>
+        <li><code>Express.js</code> REST APIs</li>
+        <li>WebSocket & Event-Driven Pipelines</li>
+      </ul>
+      <h4>🗄️ Storage, Cache & Infrastructure</h4>
+      <ul>
+        <li><code>PostgreSQL</code> & <code>Prisma ORM</code></li>
+        <li><code>MongoDB</code> & <code>Mongoose</code></li>
+        <li><code>Redis</code> (Caching, Pub/Sub, Queues)</li>
+        <li><code>Docker</code> & <code>Git</code> Containerization/CI</li>
+      </ul>
+    </td>
+  </tr>
+</table>
